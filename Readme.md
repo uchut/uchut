@@ -22,9 +22,9 @@
 ![unity](https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=black)
 
-### Connect
+## Connect
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - duhyun030316@gmail.com<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rlaengus0/)
 
-### Algorithm Level
+## Algorithm Level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duhyun0316)](https://solved.ac/duhyun0316/)
