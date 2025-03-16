@@ -11,3 +11,12 @@
 **ISSLAB**
 - 2024.12-
 - Game Server Development Lab
+- Research Intern
+
+### Connect
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - duhyun030316@gmail.com<br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rlaengus0/)
+
+---
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duhyun0316)](https://solved.ac/duhyun0316/)
