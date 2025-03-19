@@ -6,7 +6,7 @@
 ## 🌱 Experience & 📖 Education & 💼 Career
 **Sangmyung Univ.**
 - 2020.03-
-- Game Department and Computer Science
+- Game Major and Computer Science
 
 **ISSLAB**
 - 2024.12-
