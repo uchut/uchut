@@ -9,7 +9,7 @@
 - Game Major and Computer Science
 
 **ISSLAB**
-- 2024.12-
+- 2024.12 ~ 2025.06
 - Game Server Development Lab
 - Research Intern
 
